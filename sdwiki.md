@@ -170,9 +170,9 @@ https://github.com/Mikubill/sd-webui-controlnet
 
 ## Генерация изображения
 
-23) В поле **SingleImage** вставьте фотографию человека. Например, для добавления фото Леры, перейдите на страницу [Bukova Valeriya Igorevna](https://ntcup.ru/nashi-dostizheniya/stc-ui-ras-researchers/bukova-valeriya-igorevna/), скопируйте изображение и вставьте в поле **SingleImage** для **ControlNet Unit 0** с помощью Ctrl+V.
-	- Убедитесь, что активированы опции **Enable** и **Pixel Perfect**.
-	- Для квадратных изображений используйте квадратные фотографии для оптимальных результатов.
+23) В поле **SingleImage** вставьте фотографию человека. Например, для добавления фото Леры, перейдите на страницу [Bukova Valeriya Igorevna](https://ntcup.ru/nashi-dostizheniya/stc-ui-ras-researchers/bukova-valeriya-igorevna/), скопируйте изображение и вставьте в поле **SingleImage** для **ControlNet Unit 0** с помощью Ctrl+V. И также для **ControlNet Unit 1**
+	- Убедитесь, что установлены галочки **Enable** и **Pixel Perfect**.
+	- Пропорции генерируемого изображения и фотографии должны совпадать для оптимального результата (то есть для квадратных изображений лучше использовать квадратные фотографии).
 
 Должно получиться подобное изображение
 
