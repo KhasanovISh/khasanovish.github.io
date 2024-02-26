@@ -88,9 +88,13 @@ cartoon illustration of full body Barbie doll in pink dress, short blonde hairs,
 
 ![Скачивание модели](https://i.imgur.com/VK4BHR6.png)
 
-4). Перенесите файл модели в папку с моделями нейросети, следуя пути `app/models/Stable-diffusion` в вашем локальном хранилище Automatic1111.
+4) Перенесите файл модели `dreamshaperXL_v21TurboDPMSDE.safetensors` в папку с моделями нейросети (в ней расположен файл  `sd_xl_base_1.0.safetensors`), следуя пути `app/models/Stable-diffusion` в вашем локальном хранилище Automatic1111. 
 
 ![Перенос модели](https://i.imgur.com/PkKi3RU.png)
+
+Используйте кнопку "View Folder" для доступа к папке.
+
+![](https://i.imgur.com/MHv5Ni9.png)
 
 ### Настройка параметров генерации ⚙️
 
