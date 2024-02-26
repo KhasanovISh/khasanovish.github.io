@@ -24,13 +24,13 @@ Pinokio — это программа, позволяющая автоматич
 
 
 
-Нажимаем Start ![](https://i.imgur.com/uDd42EG.png) снова открывается консоль ждём когда появится строчка "Model loaded"
+7) Нажимаем Start ![](https://i.imgur.com/uDd42EG.png) снова открывается консоль ждём когда появится строчка "Model loaded"
 
 
 ![](https://i.imgur.com/6h5BZpm.png)
 
 
-Открываем свой бразуер (Chrome, Firefox и т.д.) по адресу http://127.0.0.1:7860/
+8) Открываем свой бразуер (Chrome, Firefox и т.д.) по адресу http://127.0.0.1:7860/
 
 ![](https://i.imgur.com/7mvUcVT.png)
 
