@@ -188,15 +188,17 @@ Steps: 8, Sampler: DPM++ SDE Karras, CFG scale: 2, Seed: 549212795, Size: 1024x1
 
 Чтобы сгенерировать несколько изображений в различном стиле:
 
-24) Откройте меню **Scripts** 📜.
-25) Выберите "X\Y\Z Plot" 📊.
+24) Откройте меню **Scripts** .
+    
+25) Выберите   "X\Y\Z Plot".
+
 26) Установите **"X Type"** как **Nothing**, **"Y Type"** как **"Prompt S / R"**, и в поле **"Y Values"** вставьте:
 
 ```
 Barbie doll in pink dress, Superwoman with a cape flying with her fist forward showcasing her strength and heroism, Ellen Ripley from "Alien" series with her signature flame thrower, Mera from aquaman with a trident, Galadriel with a silver elven circlet, Jasmine from Disney with golden circle earrings and golden necklace, woman ghostbuster, Katniss Everdeen with arrows in black armor, Sarah Connor in bulletproof vest, Wonder Woman with a cape Lara Croft from "Tomb Raider" equipped with dual pistols, Xena Warrior Princess with her chakram and sword, Rey from the "Star Wars" sequel trilogy wielding a lightsaber, Sailor Moon from the anime series with her moon stick, Éowyn from "The Lord of the Rings" with her sword, Leeloo from "The Fifth Element" with her multi-pass and orange suspenders outfit, Princess Leia from "Star Wars" with her blaster and iconic white dress, Daenerys Targaryen from "Game of Thrones" with a dragon perched on her shoulder, Spider-Gwen from the Spider-Verse in her white and pink spider suit swinging on a web, Catwoman from the DC Universe in her sleek black leather suit holding a whip, Rapunzel from Disney "Tangled" with her long magical blonde hair, Ahsoka Tano from the "Star Wars" universe dual-wielding lightsabers, Merida from Disney "Brave" with her bow and arrow ready to shoot, Harley Quinn from the DC Universe wielding her signature mallet, Jean Grey as Phoenix from the X-Men surrounded by flames, Sakura Haruno from "Naruto" ready to unleash her medical ninjutsu
 ```
 
-27) Дождитесь завершения генерации и откройте папку с изображениями, нажав на соответствующую иконку ![иконка](https://i.imgur.com/OFejT9Y.png) 📂
+27) Дождитесь завершения генерации и откройте папку с изображениями, нажав на соответствующую иконку 📂 ![иконка](https://i.imgur.com/OFejT9Y.png) 
 
 ## Обмен изображениями 💾
 
