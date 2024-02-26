@@ -98,7 +98,11 @@ cartoon illustration of full body Barbie doll in pink dress, short blonde hairs,
 
 ### Настройка параметров генерации ⚙️
 
-5) В интерфейсе Automatic1111 выставите следующие параметры генерации:
+Обновляем список нейросетей в браузере 
+
+![](https://i.imgur.com/weN7XFP.png)
+
+5) В интерфейсе Automatic1111 во вкладке txt2img выставите следующие параметры генерации:
 
 - **Sampling steps:** `8`
 - **CFG Scale:** `2`
@@ -106,12 +110,11 @@ cartoon illustration of full body Barbie doll in pink dress, short blonde hairs,
 - **Seed:** `549212795` (или другое значение для разнообразия результатов)
 - **Sampler:** `DPM++ SDE Karras` (важно для работы Turbo модели)
 
-6) Для уменьшения вероятности получения NSFW-контента и картинок низкого качества, используйте следующий список исключений в поле негативного запроса:
+6) Для уменьшения вероятности получения NSFW-контента и картинок низкого качества, используйте следующий список слов в поле негативного запроса:
 
 ```
 NSFW, naked, nude, lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature
 ```
-
 
 Это поможет уменьшить риск нежелательных результатов, но не гарантирует их полное отсутствие, *я предупредил*. ⚠️
 
