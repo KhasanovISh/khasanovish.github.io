@@ -72,7 +72,7 @@ Automatic1111 представляет собой пользовательски
 cartoon illustration of full body Barbie doll in pink dress, short blonde hairs, by Patrick Nagel,vector art,few colors,bright
 ```
 
-2) Затем нажмите `Generate`, чтобы увидеть результат.
+2) Затем нажмите `Generate`, чтобы увидеть МАГИЮ
 
 ![Пример генерации](https://i.imgur.com/o65tGwO.png)
 
