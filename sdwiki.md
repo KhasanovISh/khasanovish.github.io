@@ -9,6 +9,7 @@ Pinokio — это программа 🖥️, позволяющая автом
 Перед началом установки убедитесь, что ваш компьютер соответствует следующим требованиям:
 
 - Минимум 35 Гб свободного места на диске 💾
+- Дискретная видеокарта NVidia
 - Минимум 6 Гб видеопамяти 🎮
 
 ## Установка Pinokio 🤥
@@ -68,7 +69,7 @@ Automatic1111 представляет собой пользовательски
 1) Для начала генерации изображений используйте поле запроса `Prompt` с примером:
 
 ```
-cartoon illustration of full body Barbie doll in pink dress, short blonde hairs, by Patrick Nagel,vector art,few colors,bright
+anime, cartoon illustration of full body Barbie doll in pink dress, short blonde hairs, ((by Patrick Nagel, vector art)), few colors,bright
 ```
 
 
@@ -113,7 +114,7 @@ cartoon illustration of full body Barbie doll in pink dress, short blonde hairs,
 6) Для уменьшения вероятности получения NSFW-контента и картинок низкого качества, используйте следующий список слов в поле негативного запроса:
 
 ```
-NSFW, naked, nude, lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature
+NSFW, naked, nude, photo,  lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature
 ```
 
 Это поможет уменьшить риск нежелательных результатов, но не гарантирует их полное отсутствие, *я предупредил*. ⚠️
