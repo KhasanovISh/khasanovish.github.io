@@ -83,8 +83,9 @@
 
 
  ![85ef8c92c7d61edfa5920dc45e3e4db6 MD5](https://i.imgur.com/h8cE4gn.jpeg) 
+![](https://i.imgur.com/jqFSfmc.png)
  ![6276b50b13a0c0e9e1bcd7422cb17bb1 MD5](https://i.imgur.com/d51ltvd.jpeg) 
- ![66fe9d787e481c5e1756cefb92eb6ee0 MD5](https://i.imgur.com/lhBQqze.jpeg) 
+
 
 [ссылка](https://ostrovok.ru/hotel/russia/st._petersburg/mid10607436/irooms_na_borovoy_10_apartments/)
 
